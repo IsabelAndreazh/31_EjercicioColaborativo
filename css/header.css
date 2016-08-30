@@ -1,0 +1,31 @@
+.bg-gris {
+	background-color: lightgray;
+}
+ul li {
+	display: inline-block;
+}
+.mt-1 {
+	margin-top: 1%;
+}
+.t-negrita {
+	font-weight: bold;
+}
+.mg-1 {
+	margin: 1%;
+}
+/*colores*/
+.azulface {
+	color: #3B5998;
+}
+.azultwit {
+	color: #4099FF;
+}
+.rojoo {
+	color: #C61800;
+}
+.amarilloo {
+	color: #FFCF00;
+}
+.naranjaa {
+	color: #FF6200;
+}
