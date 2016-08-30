@@ -1,0 +1,11 @@
+.aside-izq{
+	float:left;
+}
+.borde{
+	border-style: solid;
+    border-color: #F2F2F2;
+}
+.cajita-gris{
+	margin: 1%;
+	width: 30%;
+}
