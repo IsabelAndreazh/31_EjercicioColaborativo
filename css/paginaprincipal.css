@@ -1,4 +1,20 @@
 /*SEGUNDA MITAD*/
+/*BACKGROUND*/
+#boletin{
+    background-image: url("../img/bg_trama_rayas.png");
+    background-repeat: repeat;
+    background-size: auto;
+}
+.bg-white{
+    background-color: white;
+}
+/*General*/
+.aut{
+    width: auto;
+}
+.line{
+    border-bottom: .1em solid lightgray;
+}
 /*text*/
 .bluef{
     color: #346799;
@@ -7,4 +23,11 @@
 .bluet{
     color: #55ACEE;
     border-bottom: .1em solid #55ACEE;
+}
+/*boletin*/
+#suscribe{
+    margin-top: -2em;
+}
+#boletin button{
+    width: 100%;
 }
