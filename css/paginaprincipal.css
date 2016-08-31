@@ -15,6 +15,9 @@
 .line{
     border-bottom: .1em solid lightgray;
 }
+.border{
+    border: .1em solid lightgray;
+}
 /*text*/
 .bluef{
     color: #346799;
@@ -24,6 +27,9 @@
     color: #55ACEE;
     border-bottom: .1em solid #55ACEE;
 }
+.purple{
+    color: #872F85;
+}
 /*boletin*/
 #suscribe{
     margin-top: -2em;
@@ -31,3 +37,4 @@
 #boletin button{
     width: 100%;
 }
+/*aweita*/
