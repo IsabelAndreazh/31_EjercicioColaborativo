@@ -1,0 +1,27 @@
+.viejo {
+	background-image: url(../img/img_grid_principal.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.viejo2 {
+	background-image: url(../img/img_grid_secundario.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.fut {
+	background-image: url(../img/img_grid_especiales.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.fut2 {
+	background-image: url(../img/img_especiales.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.viejo3 {
+	background-image: url(../img/img_especiales_aside.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
