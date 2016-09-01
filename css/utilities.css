@@ -146,3 +146,8 @@ img, iframe, textarea{
 .inl-block {
 	display: inline-block;
 }
+.marrio {
+	display: block;
+	width: 62%;
+	height: 62%;
+}
