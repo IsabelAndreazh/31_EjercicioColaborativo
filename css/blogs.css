@@ -16,7 +16,7 @@
 	border-width: .2em;
 }
 .sub{
-	height: 7em !important;
+	height: 100px;
 }
 @media  screen and (max-width: 968px){
 	p, .letra-xs {
