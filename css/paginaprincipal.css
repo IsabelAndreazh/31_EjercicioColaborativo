@@ -1,5 +1,5 @@
 /*SEGUNDA MITAD*/
-/*BACKGROUND*/
+/*BACKGROUNDS*/
 #boletin{
     background-image: url("../img/bg_trama_rayas.png");
     background-repeat: repeat;
@@ -7,6 +7,21 @@
 }
 .bg-white{
     background-color: white;
+}
+.bg-whitetrans{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+#regimenlab{
+    background-image: url("../img/img_especiales_aside.jpg");
+}
+#cop20{
+    background-image: url("../img/img_especiales.jpg");
+}
+#concenmed{
+    background-image: url("../img/img_grid_secundario.jpg");
+}
+#especiesp{
+    background-image: url("../img/fotogaleria_col03_01.jpg");
 }
 /*General*/
 .aut{
@@ -24,8 +39,14 @@
 .btgray{
     border-top: .3em solid #667885;
 }
+.btred{
+    border-top: .3em solid #B40606;
+}
 .bg-gray2{
     background-color: #667885;
+}
+.pt-15e{
+    padding-top: 15em;
 }
 /*text*/
 .bluef{
