@@ -11,18 +11,26 @@
 	height: 18em;
 	margin-bottom: 13%;
 	
-	
-
 }
 
 .pt-20 {
-	padding-top: 32%;
+	padding-top: 40%;
 }
 .pt-50 {
-	padding-top: 100%;
+	padding-top: 110%;
 }
 
+.ml-70{
+	margin-left: 80%;
+}
 
+.fuenteti {
+	font-size: 12px;
+}
+
+.ml-0 {
+	margin-left: -20%;
+}
 
 .fut {
 	background-image: url(../img/img_grid_especiales.jpg);
@@ -30,15 +38,25 @@
 	height: 18em;
 	
 }
+
+.fut3 {
+	background-image: url(../img/img_grid_especiales.jpg);
+	background-size: cover;
+	height: 12em;
+	background-repeat: no-repeat;
+}
+
 .fut2 {
 	background-image: url(../img/img_especiales.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
+	height: 12em;
 }
 .viejo3 {
 	background-image: url(../img/img_especiales_aside.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
+	height: 12em;
 }
 /*Columnistas*/
 .columnista{
@@ -64,6 +82,14 @@
 	width: 10%;
 	height: 10%;
 }
+.redes {
+	width: 25%;
+	height: 25%;
+}
+
+.titular {
+	font-size: 3em;
+}
 
 /*Carrusel*/
  .carousel-inner > .item > img,
@@ -72,3 +98,26 @@
       margin: auto;
 }
  
+ /*articulos*/
+
+ .cuadro {
+ 	border: solid 1px #888;
+ 	width: 110%;
+ 	
+ }
+
+ .mb-10 {
+ 	margin-bottom: 10%;
+ }
+
+ .dared {
+ 	color: #811101;
+ }
+
+.mucha-muchacha {
+	width: 90%;
+	margin-left: 10%;
+}
+.ml-7{
+	margin-left: 7%;
+}
