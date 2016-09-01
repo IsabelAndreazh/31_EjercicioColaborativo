@@ -1,10 +1,9 @@
-.borde{
-	border-style: solid;
-    border-color: #F2F2F2;
-}
 .cajita{
 	margin: 1%;
-	width: 30%;
+	width: 31%;
+	padding: 3%;
+	border-style: solid;
+    border-color: #F2F2F2;
 }
 #img-flechita{
 	width: 2%;
@@ -15,4 +14,12 @@
 .hr-footer{
 	border-color: white;
 	border-width: .2em;
+}
+.sub{
+	height: 7em !important;
+}
+@media  screen and (max-width: 968px){
+	p, .letra-xs {
+		font-size: 70%;
+	}
 }
