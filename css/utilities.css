@@ -119,7 +119,7 @@ img, iframe, textarea{
 }
 /*TEXTO*/
 .white{
-	color: white;
+	color: white !important;
 }
 .gray{
 	color: #888;

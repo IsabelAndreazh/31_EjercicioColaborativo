@@ -33,7 +33,7 @@ ul li {
 	width: 20px;
 }
 .imagen {
-	height: 80px;
+	height: 90px;
 	width: auto;
 	border-radius: 5px 0px 0px 5px;
 }
@@ -50,6 +50,9 @@ ul li {
 	margin-top: -12px;
 
 }
+.b-r-5 {
+	border-radius: 5px;
+}
 nav {
 	background-color: transparent !important;
 	border-color: transparent !important;
@@ -57,7 +60,7 @@ nav {
 .borde-doble {
 	border: 1px solid lightgray;
 	border-bottom: 3px solid #B20000;
-	height: 80px;
+	height: 90px;
 	text-align: center;
 }
 #rojito {
@@ -86,6 +89,7 @@ nav {
 	padding-right: 20%;
 	padding-left: 20%;
 }
+
 .mb-7 {
 	margin-bottom: 7%;
 }
@@ -96,7 +100,7 @@ nav {
 	line-height: 2;
 }
 .bg-black {
-	background-color: black;
+	background-color: black !important;
 }
 .w-50 {
 	width: 50%;
@@ -108,7 +112,6 @@ button {
 	background-color: #B20000 !important;
 	color: white !important;
 	font-weight: bold !important;
-	
 }
 .bor-der {
 	border-right: 1px solid black;
@@ -116,6 +119,13 @@ button {
 .h-30 {
 	height: 90px;
 }
- {
-	color: white !important;
+.mgl-125 {
+	margin-right: 12.5%;
+	margin-left: 12.5%;
+}
+.h-80 {
+	height: 80px;
+}
+.t-p8 {
+	font-size: 0.8em !important;
 }
