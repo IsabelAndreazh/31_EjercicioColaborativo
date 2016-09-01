@@ -142,3 +142,26 @@ img, iframe, textarea{
 .inl{
     display: inline;
 }
+/*BACKGROUNDS*/
+.bg-red{
+    background-color: #B20000;
+}
+.bg-red-light{
+    background-color: #D90000;
+}
+.bg-red-dark{
+    background-color: #811101;
+}
+.bg-gray{
+    background-color: #F2F2F2;
+}
+.bg-black{
+    background-color: #0E0E0E;
+}
+/*COLOR TEXTO*/
+.gray2{
+    color: #667885;
+}
+.red{
+    color: #B40606;
+}
