@@ -15,14 +15,16 @@
     background-color: #0E0E0E;
 }
 /*COLOR TEXTO*/
-.gray{
+.gray2{
     color: #667885;
 }
 .red{
     color: #B40606;
 }
 
-
+.black {
+	color: black;
+}
 /*CLASES COLUMNISTAS*/
 .photo {
 	box-shadow: 0px 0px 5px #000; /* Sombra */
@@ -36,8 +38,10 @@
 	padding: 2%;
 }
 
+.padding {
+	padding: 0 !important;
+}
 
 .white {
 	color: #FFF;
 }
-
