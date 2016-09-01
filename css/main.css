@@ -21,3 +21,17 @@
 .red{
     color: #B40606;
 }
+
+
+/*CLASES COLUMNISTAS*/
+.photo {
+	box-shadow: 0px 0px 5px #000; /* Sombra */
+	padding: 5px; /* Espacio entre la imagen y el borde */
+	background: #FFF; /* Color de fondo que se ve entre el espacio */
+}
+
+.div-blog {
+	width: 98%;
+	margin: 2% 1%;
+	font-weight: bold;
+}
