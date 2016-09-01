@@ -1,0 +1,84 @@
+.viejo {
+	background-image: url(../img/img_grid_principal.jpg);
+	background-size: cover;
+	height: 40em;
+	margin-bottom: 10%;
+}
+
+.viejo2 {
+	background-image: url(../img/img_grid_secundario.jpg);
+	background-size: cover;
+	height: 18em;
+	margin-bottom: 13%;
+	
+	
+
+}
+
+.pt-20 {
+	padding-top: 32%;
+}
+.pt-50 {
+	padding-top: 100%;
+}
+
+.ml-30{
+	margin-left: 30%;
+}
+
+
+
+.fut {
+	background-image: url(../img/img_grid_especiales.jpg);
+	background-size: cover;
+	height: 18em;
+	
+}
+.fut2 {
+	background-image: url(../img/img_especiales.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.viejo3 {
+	background-image: url(../img/img_especiales_aside.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*Columnistas*/
+.columnista{
+	display: block;
+	position: absolute;
+	margin-left: 40%;
+	margin-top: -5%;
+}
+
+.cuadrocol {
+	font-size: 16px;
+	padding: 1%;
+	width: 20%;
+	padding-left: 2%;
+}
+.blanco {
+	color: white;
+}
+.borderojo {
+	border: solid 2px #811101;
+}
+.marrio {
+	width: 10%;
+	height: 10%;
+}
+.redes {
+	width: 30%;
+	height: 30%;}
+.titular {
+	font-size: 3em;
+}
+
+/*Carrusel*/
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+}
+ 

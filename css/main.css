@@ -31,7 +31,16 @@
 }
 
 .div-blog {
-	width: 98%;
 	margin: 2% 1%;
 	font-weight: bold;
+	padding: 2%;
 }
+
+.padding {
+	padding: 0 !important;
+}
+
+.white {
+	color: #FFF;
+}
+
