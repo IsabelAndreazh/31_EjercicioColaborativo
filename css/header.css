@@ -74,11 +74,13 @@ nav {
 .mg {
 	margin-top: -200px !important;
 }
-
-input {
+.W-100 {
+	width: 100%;
+}
+.input-area {
 	border-radius: 5px;
 	background-color: #E9E9E6;
-	padding: 3px;
+	
 }
 .pd-lr-20 {
 	padding-right: 20%;
@@ -86,4 +88,16 @@ input {
 }
 .mb-7 {
 	margin-bottom: 7%;
+}
+.lh1-8 {
+	line-height: 3;
+}
+.lh2 {
+	line-height: 2;
+}
+.bg-black {
+	background-color: black;
+}
+.w-50 {
+	width: 50%;
 }
