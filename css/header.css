@@ -101,3 +101,21 @@ nav {
 .w-50 {
 	width: 50%;
 }
+button {
+	border-color: transparent !important;
+}
+.rouge {
+	background-color: #B20000 !important;
+	color: white !important;
+	font-weight: bold !important;
+	
+}
+.bor-der {
+	border-right: 1px solid black;
+}
+.h-30 {
+	height: 90px;
+}
+ {
+	color: white !important;
+}
