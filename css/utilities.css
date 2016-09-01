@@ -147,7 +147,6 @@ img, iframe, textarea{
 	display: inline-block;
 }
 .marrio {
-	display: block;
-	width: 62%;
-	height: 62%;
+	width: 80%;
+	height: 80%;
 }
